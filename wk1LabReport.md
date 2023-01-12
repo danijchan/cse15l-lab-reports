@@ -6,4 +6,4 @@ In this report, we will be teaching you how to remotely login.
 
 Start by going to Visual Studio Code's website.
 
-[VS Code Website]([http://a.com](https://code.visualstudio.com/))
+[VS Code Website](https://code.visualstudio.com/)
