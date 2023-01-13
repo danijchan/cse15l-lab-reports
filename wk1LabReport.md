@@ -47,3 +47,7 @@ Try some commands like:
 Your terminal should look something like this after trying these commands:
 
 ![image](https://user-images.githubusercontent.com/122564073/212221379-d4b7e1ea-d96b-42b8-9ac0-d80865f31860.png)
+
+## Complete
+
+You've completed remote access! Woohoo!
