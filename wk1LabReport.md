@@ -25,4 +25,9 @@ If you do not know your account, visit:
 Else, open VS Code, and open a terminal. You can open a terminal by typing Ctrl or Command + `, or use the Terminal → New Terminal menu option.
 
 In the terminal you created, type, but replace the zz with your own account's letters:
+
 `ssh cs15lwi23zz@ieng6.ucsd.edu`
+
+Now, you are asked to input your password, so do so accordingly. The terminal should say something like this:
+
+![image](https://user-images.githubusercontent.com/122564073/212219280-6e7a9fa3-679e-45dc-b899-aaa36ee4a3b1.png)
