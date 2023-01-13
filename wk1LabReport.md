@@ -12,4 +12,4 @@ Install VS Code, there are different versions for both MacOs and Windows, so dow
 Once VS Code has downloaded, open the application, it should look something like this:
 
 
-![Image]([Screenshot 2023-01-12 154032.png](https://upload.wikimedia.org/wikipedia/commons/e/e9/VS_Code_%28Insiders%29.png))
+![Image](https://upload.wikimedia.org/wikipedia/commons/e/e9/VS_Code_%28Insiders%29.png)
