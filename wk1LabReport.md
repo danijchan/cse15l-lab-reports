@@ -13,3 +13,11 @@ Once VS Code has downloaded, open the application, it should look something like
 
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/e/e9/VS_Code_%28Insiders%29.png)
+
+
+## Part 2: Remotely Connecting
+
+Using your course-specific account for CSE15L, you can log in remotely. 
+If you do not know your account, visit: 
+
+[Click on Me!](https://sdacs.ucsd.edu/~icc/index.php)
