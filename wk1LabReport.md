@@ -31,3 +31,19 @@ In the terminal you created, type, but replace the zz with your own account's le
 Now, you are asked to input your password, so do so accordingly. The terminal should say something like this:
 
 ![image](https://user-images.githubusercontent.com/122564073/212219280-6e7a9fa3-679e-45dc-b899-aaa36ee4a3b1.png)
+
+## Part 3: Practicing some Commands
+
+Try some commands like:
+
+`cd ~`
+
+`cd`
+
+`ls -lat`
+
+`ls -a`
+
+Your terminal should look something like this after trying these commands:
+
+![image](https://user-images.githubusercontent.com/122564073/212221379-d4b7e1ea-d96b-42b8-9ac0-d80865f31860.png)
