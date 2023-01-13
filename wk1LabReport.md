@@ -23,3 +23,6 @@ If you do not know your account, visit:
 [Click on Me!](https://sdacs.ucsd.edu/~icc/index.php)
 
 Else, open VS Code, and open a terminal. You can open a terminal by typing Ctrl or Command + `, or use the Terminal → New Terminal menu option.
+
+In the terminal you created, type, but replace the zz with your own account's letters:
+`ssh cs15lwi23zz@ieng6.ucsd.edu`
