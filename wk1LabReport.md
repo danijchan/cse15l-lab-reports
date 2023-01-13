@@ -21,3 +21,5 @@ Using your course-specific account for CSE15L, you can log in remotely.
 If you do not know your account, visit: 
 
 [Click on Me!](https://sdacs.ucsd.edu/~icc/index.php)
+
+Else, open VS Code, and open a terminal. You can open a terminal by typing Ctrl or Command + `, or use the Terminal → New Terminal menu option.
