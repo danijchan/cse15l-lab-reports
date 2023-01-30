@@ -38,6 +38,7 @@ Screenshot 1:
 
 ![image](https://user-images.githubusercontent.com/122564073/215426187-8222256d-0f93-4ff5-9e38-cc507b2dd9ac.png)
 
+All of the methods are called in this screenshot as I tried to make my code as minimal as possible. The relevent arguments in this screenshot would be `String[] args` in the main method in the StringServer class, and the `URI url` in the handleRequest method in the Handler class, which implements URLHandler. In the Handler class, the url is given to the handleRequest method where it checks the url to see if it has what we're looking for which is `/add-message`. 
 
 Screenshot 2:
 
