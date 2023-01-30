@@ -127,4 +127,7 @@ Now I tested the code with the same test cases but with the new code and the ima
 
 ## Part 3 - What did I learn?
 
-It may seem really irrelevent to the course, but coming into computer science as a woman, I thought it would be really difficult seeking help or looking for people to socialize in within the same major. 
+It may seem really irrelevent to the course, but coming into computer science as a woman, I thought it would be really difficult seeking help or looking for people to socialize in within the same major. It's hard finding a community within this major, especially a community of women. I often feel really isolated because of imposter syndrome. It feels like everyone around me know what's going on, but when it comes to me, I have absolutely no idea. But within Lab 2 and 3 in this class, I feel a lot more included. When we're working in groups, it feel like when we're lost, we're lost together. And we would seek help together and figure out the problem together. I learned that there *is* a community here for me. 
+
+
+And if you want a more academic answer. I learned how to write test cases. Going through CSE11 and now CSE12 and CSE15L, I never really knew how to write test cases. Because we had to wrtie them in Lab 3, it really helped me not just in this class but now across all of my classes.
